@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "private": true,
+  "bundled": true,
+  "backstage": {
+    "role": "frontend"
+  },
+  "dependencies": {
+    "@internal/plugin-plugin-cicd-statistics-travisci": "^0.1.0",
+    "@roadiehq/backstage-plugin-travis-ci": "^1.3.9",
+}
